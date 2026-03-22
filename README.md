@@ -28,3 +28,27 @@ Identifies products with the highest stock levels.
 Highlights low-stock items for restocking decisions.
 🔍 Brand Filter
 Allows filtering data by brand (e.g., Dior) for focused analysis.
+ # Tools & Technologies
+Data Visualization Tool (e.g., Power BI / Tableau / Excel)
+Data Cleaning & Transformation
+Dashboard Design Principles
+Business Intelligence Concepts
+  # Insights & Use Cases
+Track inventory health and avoid stockouts
+Identify top-performing products
+Monitor revenue growth over time
+Support data-driven supply chain decisions
+Improve demand forecasting and planning
+# Data Highlights
+📦 20K Total Inventory Units
+Represents the overall stock volume across all products.
+💰 3 Billion Inventory Value
+Indicates a high-value inventory portfolio, useful for financial tracking and asset management.
+💵 850 Million Revenue Generated
+Shows strong business performance and sales output.
+📈 Consistent Quarterly Growth
+Sales revenue shows a steady upward trend from 2022 to 2023, indicating business expansion.
+📊 Top Performing Products
+A small group of products contributes significantly to total inventory, highlighting key items.
+# Repository Structure
+Data : 
