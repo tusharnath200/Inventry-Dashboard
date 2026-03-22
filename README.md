@@ -52,3 +52,5 @@ Sales revenue shows a steady upward trend from 2022 to 2023, indicating business
 A small group of products contributes significantly to total inventory, highlighting key items.
 # Repository Structure
 Data : https://github.com/tusharnath200/Inventry-Dashboard/blob/main/Sales.xlsx
+Dashboard : https://github.com/tusharnath200/Inventry-Dashboard/blob/main/Sales.xlsx
+Image : 
