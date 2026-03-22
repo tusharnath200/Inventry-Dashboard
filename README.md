@@ -53,4 +53,5 @@ A small group of products contributes significantly to total inventory, highligh
 # Repository Structure
 Data : https://github.com/tusharnath200/Inventry-Dashboard/blob/main/Sales.xlsx
 Dashboard : https://github.com/tusharnath200/Inventry-Dashboard/blob/main/Sales.xlsx
-Image : 
+Image : ![WhatsApp Image 2026-03-22 at 10 47 38](https://github.com/user-attachments/assets/d2ed4385-f28d-4a0f-9672-1c639b92e0c3)
+
